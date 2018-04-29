@@ -17,6 +17,7 @@ public class Exaprac2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int cualquiera = 0;
         int opcion = 0;
         String[] nombres = new String[20];
         double[] salario = new double[20];
@@ -56,3 +57,4 @@ public class Exaprac2 {
        }
        
         }while(opcion != 3)
+              
